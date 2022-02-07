@@ -1,0 +1,44 @@
+*{
+    box-sizing:border-box;
+}
+body
+{
+    border-radius:100px;
+}
+#ss{
+background-color:grey;
+text-align:right;
+color:white;
+padding:30px;
+font-size:100px;
+width:320px;
+border-radius: 20px 20px 0px 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width:320px;
+}
+li {
+    float: left;
+    width:80px;
+}
+p{
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+width:80px;
+}
+#orange
+{
+    background-color:orange;
+}
+#space
+{
+    width:160px;
+}
