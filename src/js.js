@@ -130,3 +130,5 @@ const wordBlanks = myNoun+" "+myAdjective+" "+myVerb+" "+myAdverb; // Change thi
 const myArray = ["hey",3];
 // Only change code below this line
 const myArray = [["hey",3],["you",9]];
+const myArray = [50, 60, 70];
+const myData =myArray[0];
